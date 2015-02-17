@@ -23,3 +23,15 @@ a.unread, a.unknown, .invisible a.unread, .invisible a.unknown {
 a {
     color: #253954 !important;
 }
+
+.forum_desc, .excerpt, .replies_column div {
+    color: #C3C3C3;
+}
+
+.topbar_menu ul.toplevel > li > a, #topbar_login a {
+    color: #fff !important;
+}
+.new_forum .navtable td {
+    background: transparent;
+}
+
