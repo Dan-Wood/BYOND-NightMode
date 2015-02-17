@@ -1,0 +1,25 @@
+body {
+    background: #525252 !important;
+    color: #C3C3C3!important;
+}
+
+.main_background {
+    background: #525252 !important;
+    color: #C3C3C3!important;
+}
+
+.odd {
+    background: #5f5f5f !important;
+}
+
+.even {
+    background: #707070 !important;
+}
+
+a.unread, a.unknown, .invisible a.unread, .invisible a.unknown {
+    color: #0d356a !important;
+}
+
+a {
+    color: #253954 !important;
+}
