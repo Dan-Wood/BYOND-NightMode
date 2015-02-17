@@ -41,3 +41,9 @@ a {
     background: transparent;
 }
 
+.forum_entry_content {
+    background: transparent !important;
+}
+.forum_post_header, .forum_entry_info {
+    background: #707070 !important
+}
