@@ -7,6 +7,6 @@
   "content_scripts": [{
     "js": ["js/jquery-2.1.3.min.js", "js/custom.js"],
     "css": ["css/style.css"],
-    "matches": ["https://*.byond.com/*", "http://*.byond.com/*"]
+    "matches": ["https://*.byond.com/forum/*", "http://*.byond.com/forum/*"]
   }]
 }
