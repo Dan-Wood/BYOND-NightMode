@@ -1,48 +1,4 @@
 
-#nightmode {
-    position: fixed;
-    top: 20%;
-    right: 10px;
-}
-
-/*
- Eye Icon thanks to James Koster!
- http://jameskoster.co.uk/snippets/css-only-eye-icon/
-*/
-span.eye {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    background: #000;
-    position: relative;
-    border-radius: 65% 0;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-span.eye:before, span.eye:after {
-   content: "";
-   position: absolute;
-   display: block;
-   top:50%;
-   left:50%;
-   border-radius:100%;
-}
-span.eye:before {
-     height:.5em;
-     width:.5em;
-     background: #fff;
-     margin-top:-.25em;
-     margin-left:-.25em;
-}
-span.eye:after {
-     height:.25em;
-     width:.25em;
-     background: #000;
-     margin-top:-.125em;
-     margin-left:-.125em;
-}
-
 /*
 
 BYOND overrides.
